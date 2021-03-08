@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Nitin",
+        "age": "21",
+        "hieght":"163",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name": "Kishan",
+        "age": "21",
+        "hieght":"172",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name": "Richesh",
+        "age": "24",
+        "hieght":"175",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name": "Harsh",
+        "age": "20",
+        "hieght":"165",
+        "gender":"male",
+        "hair_color":"black"
+    }
+]
